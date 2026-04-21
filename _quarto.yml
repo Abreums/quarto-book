@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "quarto-book"
+  author: "Marcos Abreu"
+  date: "4/21/2026s"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
