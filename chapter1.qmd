@@ -6,5 +6,5 @@ This is chapter 1.
 library(tidyverse)
 ```
 
-E mais.
+E mais..
 End of chapter 1.
