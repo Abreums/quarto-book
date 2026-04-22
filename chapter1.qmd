@@ -1,0 +1,9 @@
+# Chapter 1
+
+This is chapter 1.
+
+```{r}
+library(tidyverse)
+```
+
+End of chapter 1.
